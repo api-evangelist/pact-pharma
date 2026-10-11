@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "pact-pharma",
+    "captured_at": "2026-10-11T191735",
+    "source_url": "http://pactpharma.com",
+    "source_type": "Website",
+    "file": "pact-pharma-2026-10-11T191735.png",
+    "bytes": 17014,
+    "capture": "playwright-local"
+  }
+]
